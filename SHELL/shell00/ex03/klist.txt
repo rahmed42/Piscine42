@@ -1,0 +1,5 @@
+Credentials cache: API:4461
+        Principal: rahmed@42NICE.FR
+
+  Issued                Expires               Principal
+Jun  2 06:43:36 2021  Jun  2 16:43:32 2021  krbtgt/42NICE.FR@42NICE.FR
