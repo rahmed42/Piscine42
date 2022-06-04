@@ -13,5 +13,4 @@
 
 - Piscine Cursus :
 
-[![rahmed's 42 stats](https://badge42.herokuapp.com/api/stats/rahmed?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
-
+[![rahmed's 42 stats](https://badge42.vercel.app/api/v2/cl1mbvsmg00260alc05de4fvo/stats?cursusId=9&coalitionId=piscine)](     https://github.com/JaeSeoKim/badge42)
